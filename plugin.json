@@ -2,7 +2,7 @@
     "ID": "99935ff5-6dba-4c41-bf75-7553827406a2",
     "ActionKeyword": "ld",
     "Name": "Laravel Docs",
-    "Description": "Search for laravel docs",
+    "Description": "Search through Laravel's documentation",
     "Author": "amatsuka",
     "Version": "1.0",
     "Language": "python",
