@@ -26,7 +26,7 @@ class LaravelDocs(Wox):
     def open_url(self, url: str):
         webbrowser.open_new_tab(url)
 
-    def search(self, query: str) -> str:
+    def search(self, query: str) -> list:
         return self.build_algolia_client().search(query, {'tagFilters': [self.branch]})['hits']
 
     def build_payload(self, result) -> dict:
