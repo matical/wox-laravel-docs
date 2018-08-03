@@ -1,5 +1,5 @@
 # Laravel Docs for Wox
-A wox plugin for searching through Laravel's documentation.
+A smol [Wox](http://www.wox.one/) plugin for searching through Laravel's documentation.
 
 ![Screenshot](https://raw.githubusercontent.com/matical/wox-laravel-docs/master/search.png)
 
