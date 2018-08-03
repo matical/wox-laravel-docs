@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import re
 import textwrap
 import webbrowser
